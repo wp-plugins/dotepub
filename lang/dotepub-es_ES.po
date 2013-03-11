@@ -1,0 +1,151 @@
+# dotEPUB WordPress Plugin
+# Copyright (C) 2013 Xavier Badosa
+# This file is distributed under the same license as the dotEPUB package.
+# Xavier Badosa <info@dotepub.com>, 2013.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: dotepub\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-03-08 20:10+0100\n"
+"PO-Revision-Date: 2013-03-11 23:01+0100\n"
+"Last-Translator: Xavier Badosa <info@dotepub.com>\n"
+"Language-Team: dotepub <info@dotepub.com>\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: dotepub.php:22
+msgid ""
+"Sorry, this feature is not available on MS Internet Explorer prior to "
+"version 10. Please, use a different browser."
+msgstr ""
+"Lo sentimos: esta característica no está disponible en versiones anteriores "
+"a la 10 de MS Internet Explorer. Por favor, usa otro navegador."
+
+#: dotepub.php:77 dotepub.php:85
+msgid "Download this article as an e-book"
+msgstr "Descarga este artículo como un e-book"
+
+#: dotepub.php:101
+msgid "You do not have sufficient permissions to access this page."
+msgstr "No tienes suficientes permisos para acceder a esta página."
+
+#: dotepub.php:105
+msgid "dotEPUB Settings"
+msgstr "Ajustes de dotEPUB"
+
+#: dotepub.php:116
+msgid "Blog Settings"
+msgstr "Opciones del blog"
+
+#: dotepub.php:117
+msgid "Appearance"
+msgstr "Apariencia"
+
+#: dotepub.php:118
+msgid "Text"
+msgstr "Texto"
+
+#: dotepub.php:119
+msgid "Position"
+msgstr "Ubicación"
+
+#: dotepub.php:120
+msgid "E-book Settings"
+msgstr "Opciones del e-book"
+
+#: dotepub.php:121
+msgid "Mode"
+msgstr "Modo"
+
+#: dotepub.php:122
+msgid "Language to be used in the e-book"
+msgstr "Idioma que debe usarse en el e-book"
+
+#: dotepub.php:126
+msgid ""
+"These options affect how your blog posts will be modified. They allow you to "
+"set up how the e-book download link will look like."
+msgstr ""
+"Estas opciones afectan a la modificación de las entradas de tu blog. Te "
+"permiten configurar el aspecto del enlace de descarga del e-book."
+
+#: dotepub.php:129
+msgid "These options affect the e-book conversion process."
+msgstr "Estas opciones tienen que ver con el proceso de conversión a e-book."
+
+#: dotepub.php:137
+msgid "At the top of the post"
+msgstr "Al principio de cada entrada de tu blog"
+
+#: dotepub.php:138
+msgid "At the bottom of the post"
+msgstr "Al final de cada entrada de tu blog"
+
+#: dotepub.php:139
+msgid "At the top and at the bottom"
+msgstr "Al principio y al final"
+
+#: dotepub.php:151
+msgid "English"
+msgstr "Inglés"
+
+#: dotepub.php:151
+msgid "Spanish"
+msgstr "Español"
+
+#: dotepub.php:151
+msgid "Catalan"
+msgstr "Catalán"
+
+#: dotepub.php:157
+msgid "Immersive"
+msgstr "Inmersivo"
+
+#: dotepub.php:158
+msgid ""
+"In the immersive mode, links will be removed, you will not be offered the "
+"possibility of keeping images and there will be no indication where removed "
+"images and videos were. This is the recommended mode."
+msgstr ""
+"En el modo inmersivo, se eliminarán los enlaces, no se ofrecerá la "
+"posibilidad de conservar las imágenes ni se indicará dónde había imágenes o "
+"vídeos. Éste es el modo recomendado."
+
+#: dotepub.php:165
+msgid "Show only text"
+msgstr "Mostrar sólo texto"
+
+#: dotepub.php:166
+msgid "Show only an e-book icon"
+msgstr "Mostrar sólo un icono de e-book"
+
+#: dotepub.php:167
+msgid "Show an e-book icon and text"
+msgstr "Mostrar un icono de e-book y un texto"
+
+#: dotepub.php:168
+msgid "Show text as button"
+msgstr "Mostrar el texto como botón"
+
+msgid "Alignment"
+msgstr "Alineación"
+
+msgid "Right"
+msgstr "Derecha"
+
+msgid "Left"
+msgstr "Izquierda"
+
+msgid "Center"
+msgstr "Centro"
+
+msgid "Same as post"
+msgstr "La misma que se utiliza en las entradas de tu blog"
+
+msgid "None (I will use the [dotepub] shortcode instead)"
+msgstr "En ningún sitio (en vez de eso, utilizaré el shortcode [dotepub])"

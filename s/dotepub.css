@@ -1,0 +1,35 @@
+.entry-content .dotEPUBbutton {
+	margin-top: 1em;
+}
+.dotEPUBbutton a.dotEPUB, .dotEPUBbutton a.dotEPUB:link, .dotEPUBbutton a.dotEPUB:visited {
+	appearance:button ! important;
+	-moz-appearance:button ! important;
+	-webkit-appearance:button ! important;
+	font-size: 11px ! important;
+	font-family: Verdana,Arial,Helvetica,sans-serif ! important;
+	color: #000 ! important;
+	padding: 0.4em ! important;
+	text-decoration: none ! important;
+	background-image: url("../i/bg.png") ! important;
+	border: 1px solid silver ! important;
+	border-radius: 2px ! important;
+}
+.dotEPUBbutton a.dotEPUB:hover {
+	background-color: #f0f0f0 ! important;
+	border-color: none ! important;
+	background-image: none ! important;
+	text-decoration: none ! important;
+}
+.dotEPUBright {
+	text-align: right ! important;
+}
+.dotEPUBleft {
+	text-align: left ! important;
+}
+.dotEPUBcenter {
+	text-align: center ! important;
+}
+.dotEPUBimg {
+	padding-right: 1em;
+	vertical-align: bottom;
+}
