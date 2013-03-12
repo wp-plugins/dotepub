@@ -52,6 +52,10 @@ dotEPUB supports the EPUB standard used in most e-readers but also the MOBI form
 
 == Screenshots ==
 
+1. Blog post with dotEPUB activated
+2. dotEPUB Blog Settings
+3. dotEPUB E-book Settings
+
 == Changelog ==
 
 = 1.0 =
