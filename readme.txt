@@ -13,7 +13,7 @@ The dotEPUB plugin automatically adds a "Download as an e-book" button or link t
 
 [dotEPUB](http://dotepub.com) is software in the cloud that allows you to convert any webpage into an e-book. The dotEPUB plugin helps your users getting the content of your blog in e-book form.
 
-When this plugin is activated a button or link will be included in all your posts (at the beginning or at the end of it). If you don't want to include it in all your posts or want to add it in a different place (for example, after the introductory paragraph), please use the shortcode.
+When this plugin is activated a button or link will be included in all your posts (at the beginning or at the end of them). If you don't want to include it in all your posts or want to add it in a different place (for example, after the introductory paragraph), please use the shortcode.
 
 = Shortcode =
 
@@ -28,7 +28,7 @@ If the shortcode is the only content of a paragraph, specify the alignment in th
 
 == Installation ==
 
-1. Upload dotepub.zip in WordPress from Plugins > Add New > Upload
+1. Search "dotepub" from Plugins > Add New > Search or upload dotepub.zip in WordPress from Plugins > Add New > Upload
 1. Activate the plugin through the 'Plugins' menu in WordPress
 1. Under Settings > dotEPUB, choose the blog and e-book settings that meet your needs
 
