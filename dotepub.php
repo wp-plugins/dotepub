@@ -3,7 +3,7 @@
 Plugin Name: dotEPUB
 Plugin URI: http://dotepub.com/widget/wp/
 Description: Allows your users to download your blog posts in e-book form for standard EPUB e-readers and Amazon Kindle.
-Version: 1.0
+Version: 1.1
 Author: Xavier Badosa
 Author URI: http://xavierbadosa.com
 License: GPLv2
@@ -73,7 +73,7 @@ function dotEPUB_plugin( $content , $shortcode=false, $shortcontent='' ) {
 		}
 
 		$out='<p class="'.$style.'">'.$openlink.$dotepub.'</a></p>';
-		$script='<script type="text/javascript" src="http://dotepub.com/p/widget.php?lang='.$options['lang'].'&amp;img=f"></script>';
+		$script='<script type="text/javascript" src="//dotepub.com/p/widget.php?lang='.$options['lang'].'&amp;img=f"></script>';
 
 		switch($options['pos']){
 			case 'none': return $content.$script;

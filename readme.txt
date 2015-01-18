@@ -2,8 +2,8 @@
 Contributors: dotepub
 Tags: epub, mobi, kindle, ebooks, e-books, ibooks, nook, ereaders, books, reading, immersive, long, text
 Requires at least: 2.7
-Tested up to: 4.0
-Stable tag: 1.0.0
+Tested up to: 4.1
+Stable tag: 1.1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -57,6 +57,9 @@ dotEPUB supports the EPUB standard used in most e-readers but also the MOBI form
 3. dotEPUB E-book Settings
 
 == Changelog ==
+
+= 1.1 =
+* Support for conversion of secure pages.
 
 = 1.0 =
 * First version. Please provide feedback.
