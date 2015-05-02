@@ -2,7 +2,7 @@
 Contributors: dotepub
 Tags: epub, mobi, kindle, ebooks, e-books, ibooks, nook, ereaders, books, reading, immersive, long, text
 Requires at least: 2.7
-Tested up to: 4.1
+Tested up to: 4.2
 Stable tag: 1.1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
